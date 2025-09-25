@@ -1,6 +1,6 @@
 ## Live Demo
 
-Try the game live here: [(https://tamim2763.github.io/simon-game/)]
+Try the game live here: https://tamim2763.github.io/simon-game/
 
 # Simon Game
 
