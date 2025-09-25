@@ -1,4 +1,4 @@
-## Live Demo
+# Live Demo
 
 Try the game live here: https://tamim2763.github.io/simon-game/
 
