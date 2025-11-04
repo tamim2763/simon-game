@@ -10,7 +10,7 @@ A clone of the classic Simon memory game, built as a project to master DOM manip
 
 ### 📷 Screenshot
 
-*(Just drag a screenshot of your game here to upload it)*
+<img width="400" alt="home" src="https://github.com/user-attachments/assets/6daa8e05-856f-4150-a2bc-02b3354f0af0" />
 
 ---
 
