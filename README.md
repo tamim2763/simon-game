@@ -8,7 +8,7 @@ A clone of the classic Simon memory game, built as a project to master DOM manip
 
 ---
 
-### 📷 Screenshot
+### Screenshot
 
 <img width="400" alt="home" src="https://github.com/user-attachments/assets/6daa8e05-856f-4150-a2bc-02b3354f0af0" />
 
@@ -22,7 +22,7 @@ The game challenges the user to repeat a growing sequence of colors and sounds. 
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 * **HTML5**
 * **CSS3** (with custom animations for `pressed` and `game-over` states)
