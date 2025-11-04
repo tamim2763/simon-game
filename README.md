@@ -2,7 +2,7 @@
 
 A clone of the classic Simon memory game, built as a project to master DOM manipulation with jQuery.
 
-### 🚀 Live Demo
+### Live Demo
 
 [**Try the game live here!**](https://tamim2763.github.io/simon-game/)
 
